@@ -1,0 +1,19 @@
+.b1 {background-color: purple; }
+.b2 {background-color: red; }
+.b3 {background-color: green; }
+.b4 {background-color: orange; }
+.b5 {background-color: yellow; }
+
+.f1 {text-align: center;}
+.f2 {text-align: center;}
+.f3 {text-align: center;}
+.f4 {text-align: center;}
+
+ul {text-align: center; list-style: none;}
+ul li {margin: 20px; font-size: 20px; display: inline-block;}
+
+.q1{width:1000px;height:800px;margin-top: 1px;text-align: center;}
+.w1{text-align: center;}
+
+.k1{text-align: center;font-style: oblique;}
+.k2{text-align: center;font-style: oblique;}
